@@ -1,0 +1,55 @@
+
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Skills}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+
+  \begin{cvskillslong}
+
+
+%---------------------------------------------------------
+  \cvskilllong
+    {R programming} % Category
+    {\textnormal{\textbf{Build packages, functions, parallelization,
+          manage SQL database}. Mixed models, glm, lm, PCA, RDA, spatial analysis (point pattern analysis), parametric tests (t test, ANOVA …), none parametric test (chi-square test Wilcoxon test…), survival test, ANCOVA, AIC, etc.}} % Skills
+
+%---------------------------------------------------------
+  \cvskilllong
+    {Landscape Modeling} % Category
+    {\textnormal{LANDIS-II (model forest biomass, disturbance)}} % Skills
+
+%---------------------------------------------------------
+  \cvskilllong
+    {Linux} % Category
+    {\textnormal{Emacs, org-mode, {\LaTeX}, {\BibTeX}, Git}} % Skills
+
+%---------------------------------------------------------
+  \cvskilllong
+    {GIS} % Category
+    {\textnormal{ArcGIS, QGIS.}} % Skills
+    
+ %---------------------------------------------------------
+  \cvskilllong
+    {Windows} % Category
+    {\textnormal{Office suite, Photoshop, In Design}} % Skills
+    
+
+
+  \cvskilllong
+  {Personal skills}
+  {\textnormal{Rigour, autonomy, organization and confidence, team and autonomy
+    working, teaching, fast and efficient decisions making, multi-task
+    management, Usable synthesis report by everyone}}
+
+%---------------------------------------------------------
+  \cvskilllong
+    {Languages} % Category
+    {\textnormal{French (native) – English (fluent)}} % Skills
+
+\end{cvskillslong}
+

@@ -1,0 +1,97 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+   
+       
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Configuration
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Themes: Awesome-CV
+\documentclass[11pt, a4paper]{awesome-cv}
+                  
+%%% Override a directory location for fonts(default: 'fonts/')
+\fontdir[fonts/]
+      
+%%% Configure a directory location for sections
+\newcommand*{\sectiondir}{resume/}
+               
+%%% Override color
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+%% Color for highlight
+% Define your custom color if you don't like awesome colors
+\colorlet{awesome}{awesome-red}       
+%\definecolor{awesome}{HTML}{CA63A8}
+%% Colors for text
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{414141}
+%\definecolor{graytext}{HTML}{414141}
+%\definecolor{lighttext}{HTML}{414141}
+
+%%% Override a separator for social informations in header(default: ' | ')
+%\headersocialsep[\quad\textbar\quad]
+                 
+           
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     3rd party packages
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Needed to divide into several files
+\usepackage{import}
+\usepackage{array} 
+\usepackage{multicol}
+\usepackage{hologo}
+\setlength{\columnseprule}{1pt}   
+\def\columnseprulecolor{\color{awesome-red}}   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Personal Data 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Essentials 
+\name{Tiphaine}{Després}
+%\address{V Cibulkách 358/54, 150 00 Praha 5-Košíře, Czech Republic}
+\mobile{(+420) 776 734 332} 
+%%% Social
+\email{tiphaine.despres@gmail.com}
+\homepage{samplestat.org} 
+%\github{DespresT}
+\linkedin{tiphainedespres}
+\researchgate{Tiphaine\_Despres} 
+%%% Optionals
+\position{Postdoctorat Fellow{\enskip\cdotp\enskip}Forest Ecologist
+  specialize in spatial analyses \& forest structure}
+  
+     
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Content
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Make a footer for CV with three arguments(<left>, <center>, <right>)
+\makecvfooter
+  {\today} 
+  {Tiphaine Després~~~·~~~Resume} 
+  {\thepage}  
+      
+\begin{document}
+%%% Make a header for CV with personal data
+\makecvheader    
+   
+%%% Import contents
+\import{\sectiondir}{skilllong.tex}
+\import{\sectiondir}{education.tex}
+\import{\sectiondir}{experience.tex}
+\import{\sectiondir}{publication.tex}
+\import{\sectiondir}{reference.tex}
+\import{\sectiondir}{scholarship.tex}
+\import{\sectiondir}{presentation.tex}
+%\%import{\sectiondir}{committees.tex}
+        
+\end{document}          

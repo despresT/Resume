@@ -1,0 +1,23 @@
+% Copyright 2015-2016 Diogo A. B. Fernandes
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{jekyllicon}
+
+\usepackage{fontspec}
+
+\newfontfamily{\JK}[Path=fonts/]{jekyllicon}
+
+
+\newcommand*{\jyicon}[1]
+  {\JK\csname jyicon@#1\endcsname}
+
+\expandafter\def\csname% 
+  jyicon@jekyll\endcsname{\symbol{"E900}} 
+\def\jyJekyll{{\JK\csname%
+  jyicon@jekyll\endcsname}}
+
+\endinput

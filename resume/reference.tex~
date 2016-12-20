@@ -1,0 +1,26 @@
+\cvsection{References}
+\begin{cventries}
+  \cventry
+    {}
+    {}
+    {}
+    {}
+    {
+      \begin{cvitems}
+          \setlength{\itemindent}{-2em}
+        \item[] {Hugo Asselin	\href{mailto:Hugo.Asselin@uqat.ca}{Hugo.Asselin@uqat.ca}, Professor, Titular of the Canadian Chair in first nation forestry. Département des sciences du développement humain et social Université du Québec en Abitibi-Témiscamingue 445, boulevard de l'Université, Rouyn-Noranda (Québec) J9X 5E4, Canada}
+      \item[]{}
+                      \item[] {Yves Bergeron	\href{mailto:Yves.bergeron@uqat.ca}{Yves.bergeron@uqat.ca}, Professor, Centre for Forest Research and Natural Sciences and Engineering Research Council-UQAT-UQÀM, Industrial Chair in Sustainable Forest Management. Université du Québec en Abitibi-Témiscamingue 445, boulevard de l'Université, Rouyn-Noranda (Québec) J9X 5E4, Canada.}
+                        \item[]{}
+                \item[] {Frédérik Doyon	\href{mailto:Frederik.Doyon@uqo.ca}{Frederik.Doyon@uqo.ca},
+                    Professor, University of Quebec in Outaouais and
+                    Institute of Temperate Forest Science and Centre
+                    for Forest Research (ISFORT). Université du Québec
+                    en Outaouais, 58 Principale, Ripon, Québec, J0V
+                    1V0, Canada.}
+                     \item[]{}
+                \item[] {Gerd Bossinger	\href{mailto:gerd@unimelb.edu.au}{gerd@unimelb.edu.au}, Associate professor, School of Forest and Ecosystem Science University of Melbourne, Water Street, Creswick, Victoria 3363, Australia.}
+                        \end{cvitems}
+    }
+ 
+  \end{cventries}

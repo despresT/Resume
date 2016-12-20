@@ -1,0 +1,48 @@
+
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Education}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {University of Québec in Abitibi-Témiscamingue} % Institution
+        {PhD in Environmental Sciences} % Degree
+    {2015} % Date(s)
+{Qc, Canada} % Location
+    {
+      \vspace{-\baselineskip}      
+    }
+     \cventry
+        {University of Lyon 1} % Institution
+{Master of Science in Ecology, Evolution and Biometry} % Degree
+        {2010} % Date(s)
+{Lyon, France} % Location
+    { 
+      \vspace{-\baselineskip}
+          }
+   \cventry
+        {University of Lyon 1} % Institution
+{Licence (BSc) of Biology on Organisms and Populations} % Degree
+        {2008} % Date(s)
+{Lyon, France} % Location
+    {
+            \vspace{-5pt}
+    }
+ 
+ 
+%---------------------------------------------------------
+\end{cventries}
+
+
+
+
+
+
+

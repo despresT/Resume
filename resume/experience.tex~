@@ -1,0 +1,87 @@
+\cvsection{Experience}
+\begin{cventries}
+  \cventry
+  {Faculty of Forestry and Wood Sciences - Czech University of Life Sciences Prague}
+  {Postdoctorat Fellow}
+  {Nov. 2015 - Exp. Mar. 2018}
+    {Prague, Czech Republic}
+{
+    \begin{cvitems}
+    \item {Dynamics of temperate moutain forests in central and eastern Europe (Carpathians). Focusing to link the forest spatial pattern to the disturbance history.}
+    \item {Spatial analysis (point pattern using latest rank envelope test development)}
+    \item {RandomForest analyses}
+    \item {R programming (creating functions \& packages, parallelization, use SQL database within R)}
+    \item {Data mining}
+    \end{cvitems}
+  }
+  \cventry
+  {University of Québec at Montréal}
+  {Teaching assistant}
+  {Feb. – Aug. 2014 \& Jan. - Dec. 2015}
+    {Montréal, Canada}
+{
+    \begin{cvitems}
+    \item {Teaching assistant for undergraduate and PhD students for the courses BIA 1700 Organisms and environment (two times), BIO 6600 Fieldwork methodology in ecology (two times) – Vegetation component and ENV 9501 Environmental systems dynamic (two times).}
+    \end{cvitems}
+  }
+  \cventry
+  {University of Québec in Abitibi-Témiscamingue}
+  {PhD in Environmental Sciences on the natural disturbances dynamic
+    of the Temiscamingue temperate deciduous forest}
+  {Jan. 2011 - Aug. 2015}
+    {Qc, Canada}
+{
+    \begin{cvitems}
+    \item {Worked in collaboration with my supervisor Dr. Hugo Asselin (UQAT) and my co-supervisors Dr. Frédérik Doyon (IFSORT/UQO) and Dr. Yves Bergeron (Chaire industrielle CRSNG, UQAT-UQAM)}
+    \item {Reconstitution and modeling of the naturals disturbances dynamic of the sugar maple – yellow birch bioclimatic domain at stand and landscape scale}
+    \item {Dendrochronology, statistical and spatial (point pattern analysis) analysis using R software and LANDIS-II (landscape modeling)}
+    \end{cvitems} 
+  }
+  \cventry
+  {Environmental Science Laboratory \& CNRS Unit 5023}
+  {Master training on the lentic aquatic ecosystem organism responses representative to a chronic exposition to percolated water of contaminated marine sediment.}
+  {Jan. 2010 - Jun. 2010}
+    {Vaux-en-Velin, France}
+{
+    \begin{cvitems}
+    \item {Organization and monitoring of a long experimentation (3 months)}
+    \item {Statistical analyses with R software – Mixed models, PCA, glm}
+    \end{cvitems} 
+  }
+    \cventry
+  {CNRS Unit 5558 - Biometry and Evolutionary Biology laboratory}
+  {Training on the impact of an organophosphorus pesticide on the interspecific mating of two trichogramma species, \textit{Trichogramma semblidis} and \textit{T. evanescens.}}
+  {Feb. 2009 - Jun. 2009}
+    {Lyon, France}
+{
+    \begin{cvitems}
+    \item {Organization and adaptation of a new protocol}
+    \item {Statistical analyses with R software – Chi-square test, logrank test (Survival analysis)}
+    \end{cvitems} 
+  }
+      \cventry
+  {Forest and Ecosystem Science - University of Melbourne}
+  {Training on the phylogeography of \textit{Eucalyptus regnans}, \textit{E. Delegatensis} and \textit{E. Obliqua} population’s}
+  {Feb. 2008 - Aug. 2008}
+    {Melbourne, Australia}
+{
+    \begin{cvitems}
+    \item {Worked in collaboration with Dr. Gerd Bossinger and Dr. Paul Nevill}
+    \item {Participated to a scientific project from beginning to end
+        – Field work in difficult conditions in Australian Alps – Oral
+        report in English}
+          \item {Molecular biology – DNA extraction, PCR (use of microsatellites markers) and others lab works}
+    \end{cvitems} 
+  }
+        \cventry
+  {CNRS Unit 5558 - Biometry and Evolutionary Biology laboratory}
+  {Training on the roe population repartition in an Experimentation and Study Territory}
+  {Oct. 2007 - Jan. 2008}
+    {Lyon, France}
+{
+    \begin{cvitems}
+    \item {Studies of population genetics and field work (Capture – Mark – Recapture)}
+    \item {Computerizing, structuring and analyses of an extensive dataset (over 30 years) with R software – linear models}
+    \end{cvitems} 
+  }
+\end{cventries}
