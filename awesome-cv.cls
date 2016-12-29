@@ -317,6 +317,11 @@
 % Usage: \linkedin{<linked-in-nick>}
 \newcommand{\colorLinkedinSign}{\textcolor{rgb:red,6;green,1‌​08;blue,170}{\faLink‌​edinSign}}
 
+% Defines writer's github (optional)
+% Usage: \github{<github-nick>}
+\newcommand*{\country}[1]{\def\@country{#1}}
+
+
 
 \newcommand*{\linkedin}[1]{\def\@linkedin{#1}}
 
@@ -378,7 +383,8 @@
 % Define separator for social informations in header
 % Usage: \headersocialsep{<separator>}
 % Default: \quad\textbar\quad
-\newcommand*{\headersocialsep}[1][\quad\textbar\quad]{\def\@headersocialsep{#1}}
+%\newcommand*{\headersocialsep}[1][\quad\textbar\quad]{\def\@headersocialsep{#1}}
+\newcommand*{\headersocialsep}[1][\nobreak\hspace{.45em}]{\def\@headersocialsep{#1}}
 \headersocialsep
 
 
@@ -389,7 +395,8 @@
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-
+\newcolumntype{K}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+\newcolumntype{M}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
 % Use to draw horizontal line with specific tickness
 \def\vhrulefill#1{\leavevmode\leaders\hrule\@height#1\hfill \kern\z@}
 
@@ -420,10 +427,20 @@
       \setbool{isstart}{true}
       \ifthenelse{\isundefined{\@mobile}}
         {}
-        {
+        {\fontsize{6.8pt}{1em}
           \faMobile\ \@mobile
           \setbool{isstart}{false}
         }
+      \ifthenelse{\isundefined{\@country}}
+        {}
+        {
+          \ifbool{isstart}
+            {
+              \setbool{istart}{false} 
+            }
+            {\@headersocialsep}
+        \href{https://www.google.fr/maps/@50.0666189,14.3630682,16z}{\color[rgb]{0.8196,0,0}\faMapMarker\ \color{text}\@country}
+        }      
       \ifthenelse{\isundefined{\@email}}
         {}
         {
@@ -586,8 +603,7 @@
       {\multicolumn{2}{L{17.0cm}}{\subdescriptionstyle{#4}} \\}
   \end{tabular*}
 }
-\newcolumntype{K}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
-\newcolumntype{M}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}
+
 
 % Define an environment for cvhonor
 \newenvironment{cvhonors}{
@@ -645,7 +661,7 @@
 \newenvironment{cvskillslong}{
   \begin{center}
     \setlength\tabcolsep{1ex}
-    \setlength{\extrarowheight}{0pt}
+    \setlength{\extrarowheight}{3pt}
     \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} r K{13.6cm}}
 }{
     \end{tabular*}

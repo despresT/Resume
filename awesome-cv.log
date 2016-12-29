@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2016.12.19)  21 DEC 2016 00:03
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2016.12.19)  27 DEC 2016 18:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"/media/tiphaine/73134CEF234D24BB/Fac/CV et recherche de Thèse/LaTeX/Awesome 
-CV/awesome-cv.cls"
+**"/media/tiphaine/73134CEF234D24BB/Fac/CV et recherche de Thèse/LaTeX/Resume/a
+wesome-cv.cls"
 
-(/media/tiphaine/73134CEF234D24BB/Fac/CV et recherche de Thèse/LaTeX/Awesome CV
-/awesome-cv.cls
+(/media/tiphaine/73134CEF234D24BB/Fac/CV et recherche de Thèse/LaTeX/Resume/awe
+some-cv.cls
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 4 language(s) loaded.
 
@@ -493,10 +493,10 @@ between \documentclass and \begin{document}.
  
 Here is how much of TeX's memory you used:
  15216 strings out of 495544
- 293352 string characters out of 6186228
+ 293340 string characters out of 6186228
  293196 words of memory out of 5000000
  18448 multiletter control sequences out of 15000+600000
  3680 words of font info for 19 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 46i,0n,43p,10468b,235s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,0n,43p,10464b,235s stack positions out of 5000i,500n,10000p,200000b,80000s
 No pages of output.
