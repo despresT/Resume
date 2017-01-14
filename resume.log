@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2016.12.19)  28 DEC 2016 19:27
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Debian) (preloaded format=xelatex 2016.12.19)  14 JAN 2017 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -752,4 +752,349 @@ Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \xpatchbibmacro with sig. 'm' on line 131.
-.................
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretobibmacro with sig. 'm' on line 133.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptobibmacro with sig. 'm' on line 135.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowbibmacro with sig. 'm' on line 137.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchfieldformat with sig. 'O{*}m' on line 139.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretofieldformat with sig. 'O{*}m' on line 141.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptofieldformat with sig. 'O{*}m' on line 143.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowfieldformat with sig. 'O{*}m' on line 145.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchnameformat with sig. 'O{*}m' on line 147.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretonameformat with sig. 'O{*}m' on line 149.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptonameformat with sig. 'O{*}m' on line 151.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshownameformat with sig. 'O{*}m' on line 153.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchlistformat with sig. 'O{*}m' on line 155.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretolistformat with sig. 'O{*}m' on line 157.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptolistformat with sig. 'O{*}m' on line 159.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowlistformat with sig. 'O{*}m' on line 161.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchindexfieldformat with sig. 'O{*}m' on line 163.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretoindexfieldformat with sig. 'O{*}m' on line 165.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptoindexfieldformat with sig. 'O{*}m' on line 167.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowindexfieldformat with sig. 'O{*}m' on line 169.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchindexnameformat with sig. 'O{*}m' on line 171.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretoindexnameformat with sig. 'O{*}m' on line 173.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptoindexnameformat with sig. 'O{*}m' on line 175.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowindexnameformat with sig. 'O{*}m' on line 177.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchindexlistformat with sig. 'O{*}m' on line 179.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretoindexlistformat with sig. 'O{*}m' on line 181.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xappindextolistformat with sig. 'O{*}m' on line 183.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowindexlistformat with sig. 'O{*}m' on line 185.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpatchbibdriver with sig. 'm' on line 187.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xpretobibdriver with sig. 'm' on line 189.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xapptobibdriver with sig. 'm' on line 191.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xshowbibdriver with sig. 'm' on line 193.
+.................................................
+) (./resume.aux)
+\openout1 = `resume.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 85.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 85.
+
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 85.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=745.46222pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\g__fontspec_family_latinmodern-math.otf_int=\count158
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/latinmodern-math.otf(0)/m/n on inpu
+t line 85.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/latinmodern-math.otf(0)/bx/n on in
+put line 85.
+LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> EU1/latinmodern-math.otf(1)/m/n on inp
+ut line 85.
+LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> EU1/latinmodern-math.otf(1)/bx/n on in
+put line 85.
+LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 8
+5.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/m/n on inp
+ut line 85.
+LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 85.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in
+put line 85.
+\AtBeginShipoutBox=\box70
+Package hyperref Info: Link coloring OFF on input line 85.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count159
+)
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
+
+(./resume.out) (./resume.out)
+\@outlinefile=\write3
+\openout3 = `resume.out'.
+
+ (./resume/skilllong.tex
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 10.95015pt on input line 12.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.67863pt on input line 12.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.45398pt on input line 12.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.94983pt on input line 12.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.6784pt on input line 12.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.45381pt on input line 12.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 9.00014pt on input line 39.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.00009pt on input line 39.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 39.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.99986pt on input line 39.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.99991pt on input line 39.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 39.
+
+Overfull \hbox (7.25914pt too wide) in alignment at lines 12--66
+[] [] 
+ []
+
+) (./resume/education.tex
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
+lable
+(Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
+ut line 18.
+) (./resume/experience.tex
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
+lable
+(Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
+ut line 23.
+ [1
+
+])
+(./resume/publication.tex) (./resume/reference.tex) (./resume/scholarship.tex
+[2]) (./resume/committees.tex) (./resume/presentation.tex
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 10.00015pt on input line 12.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0001pt on input line 12.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.99985pt on input line 12.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.9999pt on input line 12.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
+ (./resume.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 98.
+ ) 
+Here is how much of TeX's memory you used:
+ 28668 strings out of 495544
+ 497230 string characters out of 6186228
+ 628276 words of memory out of 5000000
+ 31625 multiletter control sequences out of 15000+600000
+ 8288 words of font info for 104 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 53i,13n,68p,10461b,558s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on resume.pdf (3 pages).
