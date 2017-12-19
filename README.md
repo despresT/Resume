@@ -1,4 +1,4 @@
 Here you will find my hack of the Awesome CV for my resume.
 
 Note that there is also a possibility to have a section in 2 columns using the file Skill.text instead of Skilllong.tex in the folder resume.
-https://github.com/despresT/Resume/blob/master/resume.pdf
+http://samplestat.org/resume/
